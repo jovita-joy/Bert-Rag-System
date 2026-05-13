@@ -1,6 +1,6 @@
 # BERT Paper — High-Precision Layout-Aware RAG System
 **Revin Techno Solutions Technical Assessment**
-**Author:** Alphin Das
+**Author:** Jovita Joy
 
 A high-precision AI backend capable of semantic retrieval and complex reasoning
 over the BERT research paper (Devlin et al., 2019), handling 2-column layouts,
