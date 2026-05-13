@@ -1,0 +1,7 @@
+.env
+chroma_db/
+__pycache__/
+*.pyc
+N19-1423.pdf
+test_embeddings.py
+test_llm.py
