@@ -9,7 +9,7 @@ figures, tables, and multi-hop questions.
 ---
 
 ## Demo Video
-🎥 [Watch Walkthrough Video](#) ← replace with your Loom/YouTube link
+🎥 [[Watch Walkthrough Video](#)] ←(https://drive.google.com/drive/folders/1-KFU98ERdtHf2MUGlJLBSMzhCKVuLgYe?usp=sharing)
 
 ---
 
